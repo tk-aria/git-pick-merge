@@ -14,7 +14,9 @@ A Bash script for interactively selecting and cherry-picking merge commits from 
 
 ## Usage
 ```bash
-./git-pick-merge
+git pick-merge # custom command.
+or 
+git-pick-merge
 ```
 
 ## How it works
